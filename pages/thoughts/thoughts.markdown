@@ -1,7 +1,7 @@
 ---
 layout: page
-Title: Ecological ucession of the Cro-magnon
-about biology, evolution, philosophy, happiness, trascendance,...
+title: Ecological Sucession of the Cro-magnon
+permalink /Thoughts-Cro-magnon
 
 Neanderthals, thiefs and farmers. (Juris Zarins)
 

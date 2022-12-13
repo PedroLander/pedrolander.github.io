@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Ecological Sucession of the Cro-magnon
-permalink /Thoughts-Cro-magnon
+---
 
-Neanderthals, thiefs and farmers. (Juris Zarins)
+Neanderthals, Bandits and Farmers. How the Agriculture Really Began. Collin Tudge. 
+
+(Read about Juris Zarins)
+
 
 Adam and Eve, Garden of Eden, The Flood Myth, "you will earn the breead with your forehead's sweat".
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thoughts
-permalink: /Thoughts/sweatofthyface
+permalink: /thoughts/
 ---
 
 This page will contain different reflexions. Some might be personal and some technical,
